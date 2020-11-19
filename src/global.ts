@@ -2,7 +2,6 @@ import { getColorsWithSubjectColor } from './util/color';
 
 const subjectColor = 'rgb(95, 149, 255)';
 const backColor = 'rgb(255, 255, 255)';
-const disableColor = 'rgb(150, 150, 150)';
 const textColor = 'rgb(0, 0, 0)';
 
 const colorSet = getColorsWithSubjectColor(subjectColor, backColor);
